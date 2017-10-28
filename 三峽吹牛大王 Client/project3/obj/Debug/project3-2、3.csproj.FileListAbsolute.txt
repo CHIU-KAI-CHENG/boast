@@ -1,0 +1,130 @@
+C:\C# TEST\project3-3\project3-2、3\project3\bin\Debug\project3.exe.config
+C:\C# TEST\project3-3\project3-2、3\project3\obj\Debug\project3.exe
+C:\C# TEST\project3-3\project3-2、3\project3\obj\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\bin\Debug\project3.exe.config
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\bin\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3.declare.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\台北大學\網路程式\project3-2、3\project3\bin\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\project3-2、3\project3\bin\Debug\project3.exe.config
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.exe
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\project3-2、3\project3\bin\Debug\project3.exe
+C:\Users\Lenovo\Desktop\project3-2、3\project3\bin\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.declare.resources
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.end_form.resources
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3.start_form.resources
+C:\Users\Lenovo\Desktop\project3-2、3\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\bin\Debug\project3.exe.config
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\bin\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\bin\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.declare.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.end_form.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3.start_form.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#blower\project3\bin\Debug\project3.exe.config
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.declare.resources
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.end_form.resources
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3.start_form.resources
+C:\Users\Lenovo\Desktop\C#blower\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#blower\project3\bin\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower\project3\bin\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\bin\Debug\project3.exe.config
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\bin\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\bin\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.declare.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.end_form.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3.start_form.resources
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521 - 4\project3\bin\Debug\project3.exe.config
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521 - 4\project3\obj\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project3版本\C#blower521 - 4\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\bin\Debug\project3.exe.config
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\bin\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\bin\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.declare.resources
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.end_form.resources
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3.start_form.resources
+C:\Users\Lenovo\Desktop\C#blower521 - 4\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#blower522\project3\bin\Debug\project3.exe.config
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower522\project3\bin\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower522\project3\bin\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.declare.resources
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.end_form.resources
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3.start_form.resources
+C:\Users\Lenovo\Desktop\C#blower522\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\C#blower522night\project3\bin\Debug\project3.exe.config
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower522night\project3\bin\Debug\project3.exe
+C:\Users\Lenovo\Desktop\C#blower522night\project3\bin\Debug\project3.pdb
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.declare.resources
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.end_form.resources
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3.start_form.resources
+C:\Users\Lenovo\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\kent\Desktop\C#blower522night\project3\bin\Debug\project3.exe.config
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.exe
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.pdb
+C:\Users\kent\Desktop\C#blower522night\project3\bin\Debug\project3.exe
+C:\Users\kent\Desktop\C#blower522night\project3\bin\Debug\project3.pdb
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.declare.resources
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.end_form.resources
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3.start_form.resources
+C:\Users\kent\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\ntpu\Desktop\C#blower522night\project3\bin\Debug\project3.exe.config
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.exe
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.pdb
+C:\Users\ntpu\Desktop\C#blower522night\project3\bin\Debug\project3.exe
+C:\Users\ntpu\Desktop\C#blower522night\project3\bin\Debug\project3.pdb
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csprojResolveAssemblyReference.cache
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.declare.resources
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.end_form.resources
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3.start_form.resources
+C:\Users\ntpu\Desktop\C#blower522night\project3\obj\Debug\project3-2、3.csproj.GenerateResource.Cache
+C:\Users\ntpu\Desktop\三峽吹牛大王 with UI 豪華精裝版\project3\bin\Debug\project3.exe.config
+C:\Users\ntpu\Desktop\三峽吹牛大王 with UI 豪華精裝版\project3\obj\Debug\project3.exe
+C:\Users\ntpu\Desktop\三峽吹牛大王 with UI 豪華精裝版\project3\obj\Debug\project3.pdb
+C:\Users\user\Desktop\台北大學\網路程式\project4\多人吹牛client\三峽吹牛大王 with UI 豪華精裝版\project3\bin\Debug\project3.exe.config
+C:\Users\user\Desktop\台北大學\網路程式\project4\多人吹牛client\三峽吹牛大王 with UI 豪華精裝版\project3\obj\Debug\project3.exe
+C:\Users\user\Desktop\台北大學\網路程式\project4\多人吹牛client\三峽吹牛大王 with UI 豪華精裝版\project3\obj\Debug\project3.pdb

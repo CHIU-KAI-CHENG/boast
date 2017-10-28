@@ -1,0 +1,14 @@
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\bin\Debug\多人吹牛Server.exe.config
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\bin\Debug\多人吹牛Server.exe
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\bin\Debug\多人吹牛Server.pdb
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\bin\Debug\Information.dll
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\bin\Debug\Information.pdb
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.csprojResolveAssemblyReference.cache
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.Properties.Resources.resources
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.ServerForm.resources
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.csproj.GenerateResource.Cache
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.exe
+C:\網路程式設計\project4(多人吹牛)\多人吹牛Server\obj\Debug\多人吹牛Server.pdb
+D:\北大資工課業\選修\網路程式設計\三峽吹牛大王\三峽吹牛大王Server\多人吹牛Server\bin\Debug\多人吹牛Server.exe.config
+D:\北大資工課業\選修\網路程式設計\三峽吹牛大王\三峽吹牛大王Server\多人吹牛Server\obj\Debug\多人吹牛Server.exe
+D:\北大資工課業\選修\網路程式設計\三峽吹牛大王\三峽吹牛大王Server\多人吹牛Server\obj\Debug\多人吹牛Server.pdb

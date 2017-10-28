@@ -1,0 +1,13 @@
+C:\C# TEST\project3-3\project3\project3\bin\Debug\project3.exe.config
+C:\C# TEST\project3-3\project3\project3\bin\Debug\project3.exe
+C:\C# TEST\project3-3\project3\project3\bin\Debug\project3.pdb
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3-3.csprojResolveAssemblyReference.cache
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3.declare.resources
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3-3.csproj.GenerateResource.Cache
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3.exe
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3.pdb
+C:\C# TEST\project3-3\project3\project3\obj\Debug\project3.BlowerSelectForm.resources
+C:\C# TEST\project3-3\project3-2、3\project3\bin\Debug\project3.exe.config
+C:\C# TEST\project3-3\project3-2、3\project3\obj\Debug\project3.exe
+C:\C# TEST\project3-3\project3-2、3\project3\obj\Debug\project3.pdb
